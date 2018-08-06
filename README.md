@@ -30,3 +30,13 @@ airTranslator('ko', '안녕하세요');
 
 C9 계정이 있으시다면 [번역기 공개 링크](https://ide.c9.io/ruach/translater)에서 더 빨리 사용하실 수 있습니다.
 
+그 밖의 링크
+----------
+
+[에어데스크 공식 홈페이지](https://joshephan.github.io)
+
+[에어데스크 웹스토어](https://chrome.google.com/webstore/detail/airdesk/gheeojjcdeaefjjpploghdjpnbhanibe)
+
+[개발자 브런치](https://brunch.co.kr/@skykamja24#info)
+
+[개발자 페이스북](https://www.facebook.com/sanghun.han.39)
