@@ -25,3 +25,8 @@ airTranslator('ko', '안녕하세요');
 ~~~
 
 4. `node server.js`로 실행합니다. console창에 결과가 나타납니다.
+
+## C9 IDE에서 사용하기
+
+C9 계정이 있으시다면 [번역기 공개 링크](https://ide.c9.io/ruach/translater)에서 더 빨리 사용하실 수 있습니다.
+
