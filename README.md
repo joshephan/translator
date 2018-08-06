@@ -9,7 +9,7 @@
 
 ~~~
 
-git clone https://giythub.com/joshephan/translator
+git clone https://github.com/joshephan/translator
 
 ~~~
 
